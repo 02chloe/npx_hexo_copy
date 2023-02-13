@@ -3,11 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 万岁～万万岁
-subtitle: ' '
-description: 'Take care of ourselves'
+title: 万岁万万岁
+subtitle: 'Take care of ourselves'
+description: "成长是最美的行为艺术！Please take care of yourself！这里是小燚 & 1234 的行为艺术"
 keywords:
-author: 万岁!万万岁!
+author: 
+  - '小燚'
+  - '1234'
 language: zh-cn
 timezone: ''
 
@@ -166,7 +168,3 @@ permalink_pinyin:
 #       pubDate: <%= date.toGMTString() %>
 #       description: <%= post.excerpt %>
 
-# feed:
-#   type: atom
-#   path: atom.xml
-#   limit: 0
