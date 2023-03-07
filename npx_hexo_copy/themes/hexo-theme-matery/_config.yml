@@ -12,7 +12,7 @@ menu:
   #   icon: fas fa-bookmark
   Calendar:
     url: /archives
-    icon: fas fa-solid fa-calendar-heart
+    icon: fas fa-solid fa-rocket
   About:
     url: /about
     icon: fas fa-solid fa-crown
@@ -174,12 +174,26 @@ indexbtn:
 socialLink:
   github:  https://github.com/wanwansui/wanwansui.github.io
   email: wswanwansui@outlook.com
-  # facebook: # https://www.facebook.com/xxx
+  ApplePodcast: https://podcasts.apple.com/gb/podcast/%E4%B8%87%E5%B2%81%E4%B8%87%E4%B8%87%E5%B2%81/id1670182400 
+  GooglePodcast: https://podcasts.google.com/feed/aHR0cHM6Ly93YW53YW5zdWkuZ2l0aHViLmlvL2ZlZWQueG1s?sa=X&ved=2ahUKEwievqOcl5b9AhWhoScCHSJ7B1sQ9sEGegQIARAC 
+  Spotify: https://open.spotify.com/show/3SfWxZmJOIaI4BMt401wCr?si=KKEsCeRRTIqYgmxxkt1OFw 
+  AmazonMusic: https://music.amazon.com/podcasts/5db52570-e8b6-4cdb-90de-0d236f62c084 
+  Castbox: https://castbox.fm/channel/id5333906?country=us
+  OverCast: https://overcast.fm/itunes1670182400 
+  Castro: https://castro.fm/itunes/1670182400
+  PocketCasts: https://pca.st/6r8mjtqs
+  Xiaoyuzhou: https://www.xiaoyuzhoufm.com/podcast/63e0341e51a4e4150ad3943c 
+  Ximalaya: https://www.ximalaya.com/album/74376035 
+  Wangyiyun: https://music.163.com/#/djradio?id=986347512  
+  SoundOn: https://player.soundon.fm/p/7d96c820-e45f-4e9c-9560-2a35bc47c765 
+  OPML: https://wanwansui.github.io/files/feed.opml
+  # facebook: https://www.facebook.com/xxx
   # twitter: # https://twitter.com/xxx
   # qq: 1181062873
   # weibo: # https://weibo.com/xxx
-  # zhihu: # https://www.zhihu.com/xxx
+  # zhihu: https://www.zhihu.com/xxx
   rss: true # true、false
+  reward: true
 
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
@@ -268,8 +282,8 @@ snowdown:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/profile1.jpg
-  career: 播客内容
-  introduction: 成长是最美的行为艺术
+  career: 这里是小燚和1234的播客
+  introduction: 关注我们自己，成长是最美的行为艺术
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.

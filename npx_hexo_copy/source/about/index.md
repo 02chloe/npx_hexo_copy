@@ -5,5 +5,4 @@ type: "about"
 layout: "about"
 author: 
     - '1234'
-    - '小燚'
 ---

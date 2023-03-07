@@ -42,6 +42,9 @@
                 </div>
 
                 <div class="introduction center-align" data-aos="fade-up"><%= theme.profile.introduction %></div>
+                <% if (theme.reward && theme.reward.enable) { %>
+                    <%- partial('_partial/reward') %>
+                <% } %>
 
                 <%- partial('_widget/post-charts') %>
 

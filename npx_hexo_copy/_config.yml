@@ -5,11 +5,9 @@
 # Site
 title: 万岁万万岁
 subtitle: 'Take care of ourselves'
-description: "成长是最美的行为艺术！Please take care of yourself！这里是小燚 & 1234 的行为艺术"
+description: "成长是最美的行为艺术！Please take care of yourself！这里是小燚 & 1234 的播客：万岁万万岁！"
 keywords:
-author: 
-  - '小燚'
-  - '1234'
+author: "万岁万万岁"
 language: zh-cn
 timezone: ''
 
@@ -23,7 +21,8 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
-source_dir: source
+
+urce_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
